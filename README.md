@@ -1,6 +1,4 @@
 # hello-world
-first try!
-
 
 Hello world,
 
